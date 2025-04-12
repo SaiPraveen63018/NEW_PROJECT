@@ -11,7 +11,7 @@
   <header class="hero">
     <div class="hero-content">
       <h1>Welcome to Devops</h1>
-      <h2>Welcome to Furniture shop</h2>
+      <h3>WELCOME TO FURNITURE SHOP</h3>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
